@@ -1,0 +1,382 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ydnt/global//global/global}
+    \entry{rober2023hybrid}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=f3c3be069daad37ffe0932c9492009fb}{%
+           family={\textbf{Rober,\bibnamedelimb Nicholas}},
+           familyi={R\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=02e603f0f0d76987cf82f7f4e94462fc}{%
+           family={Everett},
+           familyi={E\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=53a72b89a332f729b472a6212e4c609d}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Songan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=8848ce0ee15eec9f66f8d5f9006b8d66}{%
+           family={How},
+           familyi={H\bibinitperiod},
+           given={Jonathan\bibnamedelima P},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{17a1aee52f99cd1bff820f85c16c487e}
+      \strng{fullhash}{88efa230fe141ee255855b51614fe24d}
+      \strng{bibnamehash}{88efa230fe141ee255855b51614fe24d}
+      \strng{authorbibnamehash}{88efa230fe141ee255855b51614fe24d}
+      \strng{authornamehash}{17a1aee52f99cd1bff820f85c16c487e}
+      \strng{authorfullhash}{88efa230fe141ee255855b51614fe24d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2023 American Control Conference (ACC)}
+      \field{title}{A hybrid partitioning strategy for backward reachability of neural feedback loops}
+      \field{year}{2023}
+      \field{pages}{3523\bibrangedash 3528}
+      \range{pages}{6}
+      \keyw{conference}
+    \endentry
+    \entry{rober2023backward}{article}{}
+      \name{author}{7}{}{%
+        {{hash=f3c3be069daad37ffe0932c9492009fb}{%
+           family={\textbf{Rober,\bibnamedelimb Nicholas}},
+           familyi={R\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=d6b1e7479a07ab55a5021c641dab734c}{%
+           family={Katz},
+           familyi={K\bibinitperiod},
+           given={Sydney\bibnamedelima M},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=eadaad28984b44d7085100c084a48099}{%
+           family={Sidrane},
+           familyi={S\bibinitperiod},
+           given={Chelsea},
+           giveni={C\bibinitperiod}}}%
+        {{hash=a1599f43090c15352382b3372e0d0995}{%
+           family={Yel},
+           familyi={Y\bibinitperiod},
+           given={Esen},
+           giveni={E\bibinitperiod}}}%
+        {{hash=02e603f0f0d76987cf82f7f4e94462fc}{%
+           family={Everett},
+           familyi={E\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c3946ec43592957f452c131136bcbd9d}{%
+           family={Kochenderfer},
+           familyi={K\bibinitperiod},
+           given={Mykel\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=8848ce0ee15eec9f66f8d5f9006b8d66}{%
+           family={How},
+           familyi={H\bibinitperiod},
+           given={Jonathan\bibnamedelima P},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{931300a8794fc1a5eab9cf0869c259e1}
+      \strng{fullhash}{9c960765c877de58123221908028821c}
+      \strng{bibnamehash}{931300a8794fc1a5eab9cf0869c259e1}
+      \strng{authorbibnamehash}{931300a8794fc1a5eab9cf0869c259e1}
+      \strng{authornamehash}{931300a8794fc1a5eab9cf0869c259e1}
+      \strng{authorfullhash}{9c960765c877de58123221908028821c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Open Journal of Control Systems}
+      \field{title}{Backward reachability analysis of neural feedback loops: Techniques for linear and nonlinear systems}
+      \field{year}{2023}
+      \keyw{journal}
+    \endentry
+    \entry{rober2023online}{article}{}
+      \name{author}{8}{}{%
+        {{hash=f3c3be069daad37ffe0932c9492009fb}{%
+           family={\textbf{Rober,\bibnamedelimb Nicholas}},
+           familyi={R\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=32e6eb900acaae7141fde6f3e3083902}{%
+           family={Mahesh},
+           familyi={M\bibinitperiod},
+           given={Karan},
+           giveni={K\bibinitperiod}}}%
+        {{hash=5dc83423f66cee46ec1ec037c39cfce3}{%
+           family={Paine},
+           familyi={P\bibinitperiod},
+           given={Tyler\bibnamedelima M},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=0bc0734e565acbc9c944925d285ecac5}{%
+           family={Greene},
+           familyi={G\bibinitperiod},
+           given={Max\bibnamedelima L},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=147f0aff4266ea96474cd5422a0cd78c}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod}}}%
+        {{hash=02f57a7dd6605e10627d251953d1b6dd}{%
+           family={Monteiro},
+           familyi={M\bibinitperiod},
+           given={Sildomar\bibnamedelima T},
+           giveni={S\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=e0cad494991777d9ec11527b45562f82}{%
+           family={Benjamin},
+           familyi={B\bibinitperiod},
+           given={Michael\bibnamedelima R},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=8848ce0ee15eec9f66f8d5f9006b8d66}{%
+           family={How},
+           familyi={H\bibinitperiod},
+           given={Jonathan\bibnamedelima P},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{e7cc07a6d8f6cc1ac692d2431b5f71fe}
+      \strng{fullhash}{353f56e8d370d6c8e312ec04cd27c6bc}
+      \strng{bibnamehash}{e7cc07a6d8f6cc1ac692d2431b5f71fe}
+      \strng{authorbibnamehash}{e7cc07a6d8f6cc1ac692d2431b5f71fe}
+      \strng{authornamehash}{e7cc07a6d8f6cc1ac692d2431b5f71fe}
+      \strng{authorfullhash}{353f56e8d370d6c8e312ec04cd27c6bc}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2310.19256}
+      \field{title}{Online Data-Driven Safety Certification for Systems Subject to Unknown Disturbances}
+      \field{year}{2023}
+      \keyw{preprint}
+    \endentry
+    \entry{martin2022reduced}{article}{}
+      \name{author}{6}{}{%
+        {{hash=614056876b595c7cfa850dd5fa695a09}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={J\bibnamedelima Ezequiel},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=9874968953e197e56cd755db8a2d949f}{%
+           family={Hammond},
+           familyi={H\bibinitperiod},
+           given={Maxwell},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f3c3be069daad37ffe0932c9492009fb}{%
+           family={\textbf{Rober,\bibnamedelimb Nicholas}},
+           familyi={R\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=8b89218b070fbca777a75bdd4e6462ff}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Yakin},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=ed4364e0da30c3fe6eaab8fff93741fa}{%
+           family={Cichella},
+           familyi={C\bibinitperiod},
+           given={Venanzio},
+           giveni={V\bibinitperiod}}}%
+        {{hash=26ba6e8a3b7942153d6eefbd6acb11c0}{%
+           family={Carrica},
+           familyi={C\bibinitperiod},
+           given={Pablo},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{9a55f5bf94a1f117a4716979cdc35098}
+      \strng{fullhash}{35be89bd67f3e13dce8e65abffb822a9}
+      \strng{bibnamehash}{35be89bd67f3e13dce8e65abffb822a9}
+      \strng{authorbibnamehash}{35be89bd67f3e13dce8e65abffb822a9}
+      \strng{authornamehash}{9a55f5bf94a1f117a4716979cdc35098}
+      \strng{authorfullhash}{35be89bd67f3e13dce8e65abffb822a9}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2212.09821}
+      \field{title}{Reduced Order Model of a Generic Submarine for Maneuvering Near the Surface}
+      \field{year}{2022}
+      \keyw{journal}
+    \endentry
+    \entry{rober2022backward}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=f3c3be069daad37ffe0932c9492009fb}{%
+           family={\textbf{Rober,\bibnamedelimb Nicholas}},
+           familyi={R\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=02e603f0f0d76987cf82f7f4e94462fc}{%
+           family={Everett},
+           familyi={E\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8848ce0ee15eec9f66f8d5f9006b8d66}{%
+           family={How},
+           familyi={H\bibinitperiod},
+           given={Jonathan\bibnamedelima P},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{1f738796da8c52e38a4054a7f5f782ee}
+      \strng{fullhash}{1f738796da8c52e38a4054a7f5f782ee}
+      \strng{bibnamehash}{1f738796da8c52e38a4054a7f5f782ee}
+      \strng{authorbibnamehash}{1f738796da8c52e38a4054a7f5f782ee}
+      \strng{authornamehash}{1f738796da8c52e38a4054a7f5f782ee}
+      \strng{authorfullhash}{1f738796da8c52e38a4054a7f5f782ee}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2022 IEEE 61st Conference on Decision and Control (CDC)}
+      \field{title}{Backward reachability analysis for neural feedback loops}
+      \field{year}{2022}
+      \field{pages}{2897\bibrangedash 2904}
+      \range{pages}{8}
+      \keyw{conference}
+    \endentry
+    \entry{rober20223d}{article}{}
+      \name{author}{5}{}{%
+        {{hash=f3c3be069daad37ffe0932c9492009fb}{%
+           family={\textbf{Rober,\bibnamedelimb Nicholas}},
+           familyi={R\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=9874968953e197e56cd755db8a2d949f}{%
+           family={Hammond},
+           familyi={H\bibinitperiod},
+           given={Maxwell},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ed4364e0da30c3fe6eaab8fff93741fa}{%
+           family={Cichella},
+           familyi={C\bibinitperiod},
+           given={Venanzio},
+           giveni={V\bibinitperiod}}}%
+        {{hash=db99a94ceb89304d5dd5a61c92ada4a8}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={Juan\bibnamedelima E},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=26ba6e8a3b7942153d6eefbd6acb11c0}{%
+           family={Carrica},
+           familyi={C\bibinitperiod},
+           given={Pablo},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{5bc1d44cd989176b1899ddd09e4a4f82}
+      \strng{fullhash}{be36ed1a355d5a5db2d52cdb8be69aec}
+      \strng{bibnamehash}{be36ed1a355d5a5db2d52cdb8be69aec}
+      \strng{authorbibnamehash}{be36ed1a355d5a5db2d52cdb8be69aec}
+      \strng{authornamehash}{5bc1d44cd989176b1899ddd09e4a4f82}
+      \strng{authorfullhash}{be36ed1a355d5a5db2d52cdb8be69aec}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ocean Engineering}
+      \field{title}{3D path following and L1 adaptive control for underwater vehicles}
+      \field{volume}{253}
+      \field{year}{2022}
+      \field{pages}{110971}
+      \range{pages}{1}
+      \keyw{journal}
+    \endentry
+    \entry{rober2021three}{article}{}
+      \name{author}{5}{}{%
+        {{hash=f3c3be069daad37ffe0932c9492009fb}{%
+           family={\textbf{Rober,\bibnamedelimb Nicholas}},
+           familyi={R\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=ed4364e0da30c3fe6eaab8fff93741fa}{%
+           family={Cichella},
+           familyi={C\bibinitperiod},
+           given={Venanzio},
+           giveni={V\bibinitperiod}}}%
+        {{hash=4b9498abddc9dc3d15017607a38480ef}{%
+           family={Ezequiel\bibnamedelima Martin},
+           familyi={E\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=fa4bf5aa3186a6465476b57fc1f73641}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Yagin},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=26ba6e8a3b7942153d6eefbd6acb11c0}{%
+           family={Carrica},
+           familyi={C\bibinitperiod},
+           given={Pablo},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {American Institute of Aeronautics}%
+        {Astronautics}%
+      }
+      \strng{namehash}{6ef0378dce88d77d1fd703b93a30ed15}
+      \strng{fullhash}{f6788214dd047eafc4dacf9e0ccbcd44}
+      \strng{bibnamehash}{f6788214dd047eafc4dacf9e0ccbcd44}
+      \strng{authorbibnamehash}{f6788214dd047eafc4dacf9e0ccbcd44}
+      \strng{authornamehash}{6ef0378dce88d77d1fd703b93a30ed15}
+      \strng{authorfullhash}{f6788214dd047eafc4dacf9e0ccbcd44}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of guidance, control, and dynamics}
+      \field{number}{7}
+      \field{title}{Three-dimensional path-following control for an underwater vehicle}
+      \field{volume}{44}
+      \field{year}{2021}
+      \field{pages}{1345\bibrangedash 1355}
+      \range{pages}{11}
+      \keyw{journal}
+    \endentry
+    \entry{rober2021geometric}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=200e4a0b2c6ba1988a854c5f43b550e9}{%
+           family={\textbf{Rober,\bibnamedelimb Nicholas\bibnamedelimb A}},
+           familyi={R\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=ed4364e0da30c3fe6eaab8fff93741fa}{%
+           family={Cichella},
+           familyi={C\bibinitperiod},
+           given={Venanzio},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{b617bd7a411df488344d798d7fe838d4}
+      \strng{fullhash}{b617bd7a411df488344d798d7fe838d4}
+      \strng{bibnamehash}{b617bd7a411df488344d798d7fe838d4}
+      \strng{authorbibnamehash}{b617bd7a411df488344d798d7fe838d4}
+      \strng{authornamehash}{b617bd7a411df488344d798d7fe838d4}
+      \strng{authorfullhash}{b617bd7a411df488344d798d7fe838d4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{AIAA Scitech 2021 Forum}
+      \field{title}{Geometric Path Following of Underwater Vehicles}
+      \field{year}{2021}
+      \field{pages}{1678}
+      \range{pages}{1}
+      \keyw{conference}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

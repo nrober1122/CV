@@ -26,6 +26,16 @@
 % \usepackage{enumitem}
 \usepackage{savetrees}
 \usepackage{enumitem}
+\usepackage[style=ieee, backend=biber, sorting=ydnt]{biblatex}
+\addbibresource{pubs.bib}
+% \usepackage[
+%   backend      = biber,
+%   doi          = false,
+%   giveninits   = false,
+%   maxcitenames = 99,
+%   isbn         = false,
+%   url          = false,
+% ]{biblatex}
 \setlist{topsep=-5pt, leftmargin=*, noitemsep, after=\vspace{0.5\baselineskip}}
 % \usepackage{paralist}
 \newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
@@ -47,7 +57,11 @@
 \input{sections/research_experience}
 \input{sections/awards}
 \input{sections/publications}
+\input{sections/teaching}
 \input{sections/presentations}
+
+
+
 
 \iffalse
 %----------------------------------------------------------------------------------------
