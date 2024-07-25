@@ -19,6 +19,29 @@
 
 \refsection{0}
   \datalist[entry]{ydnt/global//global/global}
+    \entry{rober2023thesis}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=f3c3be069daad37ffe0932c9492009fb}{%
+           family={\textbf{Rober,\bibnamedelimb Nicholas}},
+           familyi={R\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Massachusetts Institute of Technology, Department of Mechanical Engineering}%
+      }
+      \strng{namehash}{f3c3be069daad37ffe0932c9492009fb}
+      \strng{fullhash}{f3c3be069daad37ffe0932c9492009fb}
+      \strng{bibnamehash}{f3c3be069daad37ffe0932c9492009fb}
+      \strng{authorbibnamehash}{f3c3be069daad37ffe0932c9492009fb}
+      \strng{authornamehash}{f3c3be069daad37ffe0932c9492009fb}
+      \strng{authorfullhash}{f3c3be069daad37ffe0932c9492009fb}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{BReach-LP: a Framework for Backward Reachability Analysis of Neural Feedback Loops}
+      \field{type}{mathesis}
+      \field{year}{2023}
+    \endentry
     \entry{rober2023hybrid}{inproceedings}{}
       \name{author}{4}{}{%
         {{hash=f3c3be069daad37ffe0932c9492009fb}{%
@@ -169,52 +192,6 @@
       \field{title}{Online Data-Driven Safety Certification for Systems Subject to Unknown Disturbances}
       \field{year}{2023}
       \keyw{preprint}
-    \endentry
-    \entry{martin2022reduced}{article}{}
-      \name{author}{6}{}{%
-        {{hash=614056876b595c7cfa850dd5fa695a09}{%
-           family={Martin},
-           familyi={M\bibinitperiod},
-           given={J\bibnamedelima Ezequiel},
-           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-        {{hash=9874968953e197e56cd755db8a2d949f}{%
-           family={Hammond},
-           familyi={H\bibinitperiod},
-           given={Maxwell},
-           giveni={M\bibinitperiod}}}%
-        {{hash=f3c3be069daad37ffe0932c9492009fb}{%
-           family={\textbf{Rober,\bibnamedelimb Nicholas}},
-           familyi={R\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
-        {{hash=8b89218b070fbca777a75bdd4e6462ff}{%
-           family={Kim},
-           familyi={K\bibinitperiod},
-           given={Yakin},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=ed4364e0da30c3fe6eaab8fff93741fa}{%
-           family={Cichella},
-           familyi={C\bibinitperiod},
-           given={Venanzio},
-           giveni={V\bibinitperiod}}}%
-        {{hash=26ba6e8a3b7942153d6eefbd6acb11c0}{%
-           family={Carrica},
-           familyi={C\bibinitperiod},
-           given={Pablo},
-           giveni={P\bibinitperiod}}}%
-      }
-      \strng{namehash}{9a55f5bf94a1f117a4716979cdc35098}
-      \strng{fullhash}{35be89bd67f3e13dce8e65abffb822a9}
-      \strng{bibnamehash}{35be89bd67f3e13dce8e65abffb822a9}
-      \strng{authorbibnamehash}{35be89bd67f3e13dce8e65abffb822a9}
-      \strng{authornamehash}{9a55f5bf94a1f117a4716979cdc35098}
-      \strng{authorfullhash}{35be89bd67f3e13dce8e65abffb822a9}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{arXiv preprint arXiv:2212.09821}
-      \field{title}{Reduced Order Model of a Generic Submarine for Maneuvering Near the Surface}
-      \field{year}{2022}
-      \keyw{journal}
     \endentry
     \entry{rober2022backward}{inproceedings}{}
       \name{author}{3}{}{%
