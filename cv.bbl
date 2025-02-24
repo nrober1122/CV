@@ -47,6 +47,66 @@
       \field{title}{Constraint-Aware Refinement for Safety Verification of Neural Feedback Loops}
       \field{year}{2024}
     \endentry
+    \entry{rober2024online}{inproceedings}{}
+      \name{author}{8}{}{%
+        {{hash=f3c3be069daad37ffe0932c9492009fb}{%
+           family={\textbf{Rober,\bibnamedelimb Nicholas}},
+           familyi={R\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=32e6eb900acaae7141fde6f3e3083902}{%
+           family={Mahesh},
+           familyi={M\bibinitperiod},
+           given={Karan},
+           giveni={K\bibinitperiod}}}%
+        {{hash=5dc83423f66cee46ec1ec037c39cfce3}{%
+           family={Paine},
+           familyi={P\bibinitperiod},
+           given={Tyler\bibnamedelima M},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=0bc0734e565acbc9c944925d285ecac5}{%
+           family={Greene},
+           familyi={G\bibinitperiod},
+           given={Max\bibnamedelima L},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=147f0aff4266ea96474cd5422a0cd78c}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod}}}%
+        {{hash=02f57a7dd6605e10627d251953d1b6dd}{%
+           family={Monteiro},
+           familyi={M\bibinitperiod},
+           given={Sildomar\bibnamedelima T},
+           giveni={S\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=e0cad494991777d9ec11527b45562f82}{%
+           family={Benjamin},
+           familyi={B\bibinitperiod},
+           given={Michael\bibnamedelima R},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=8848ce0ee15eec9f66f8d5f9006b8d66}{%
+           family={How},
+           familyi={H\bibinitperiod},
+           given={Jonathan\bibnamedelima P},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{e7cc07a6d8f6cc1ac692d2431b5f71fe}
+      \strng{fullhash}{353f56e8d370d6c8e312ec04cd27c6bc}
+      \strng{bibnamehash}{e7cc07a6d8f6cc1ac692d2431b5f71fe}
+      \strng{authorbibnamehash}{e7cc07a6d8f6cc1ac692d2431b5f71fe}
+      \strng{authornamehash}{e7cc07a6d8f6cc1ac692d2431b5f71fe}
+      \strng{authorfullhash}{353f56e8d370d6c8e312ec04cd27c6bc}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2024 IEEE International Conference on Robotics and Automation (ICRA)}
+      \field{title}{Online Data-Driven Safety Certification for Systems Subject to Unknown Disturbances}
+      \field{year}{2024}
+      \field{pages}{9939\bibrangedash 9945}
+      \range{pages}{7}
+    \endentry
     \entry{rober2023thesis}{thesis}{}
       \name{author}{1}{}{%
         {{hash=f3c3be069daad37ffe0932c9492009fb}{%
@@ -164,62 +224,6 @@
       \field{title}{Backward reachability analysis of neural feedback loops: Techniques for linear and nonlinear systems}
       \field{year}{2023}
       \keyw{journal}
-    \endentry
-    \entry{rober2023online}{article}{}
-      \name{author}{8}{}{%
-        {{hash=f3c3be069daad37ffe0932c9492009fb}{%
-           family={\textbf{Rober,\bibnamedelimb Nicholas}},
-           familyi={R\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
-        {{hash=32e6eb900acaae7141fde6f3e3083902}{%
-           family={Mahesh},
-           familyi={M\bibinitperiod},
-           given={Karan},
-           giveni={K\bibinitperiod}}}%
-        {{hash=5dc83423f66cee46ec1ec037c39cfce3}{%
-           family={Paine},
-           familyi={P\bibinitperiod},
-           given={Tyler\bibnamedelima M},
-           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=0bc0734e565acbc9c944925d285ecac5}{%
-           family={Greene},
-           familyi={G\bibinitperiod},
-           given={Max\bibnamedelima L},
-           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-        {{hash=147f0aff4266ea96474cd5422a0cd78c}{%
-           family={Lee},
-           familyi={L\bibinitperiod},
-           given={Steven},
-           giveni={S\bibinitperiod}}}%
-        {{hash=02f57a7dd6605e10627d251953d1b6dd}{%
-           family={Monteiro},
-           familyi={M\bibinitperiod},
-           given={Sildomar\bibnamedelima T},
-           giveni={S\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
-        {{hash=e0cad494991777d9ec11527b45562f82}{%
-           family={Benjamin},
-           familyi={B\bibinitperiod},
-           given={Michael\bibnamedelima R},
-           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-        {{hash=8848ce0ee15eec9f66f8d5f9006b8d66}{%
-           family={How},
-           familyi={H\bibinitperiod},
-           given={Jonathan\bibnamedelima P},
-           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
-      }
-      \strng{namehash}{e7cc07a6d8f6cc1ac692d2431b5f71fe}
-      \strng{fullhash}{353f56e8d370d6c8e312ec04cd27c6bc}
-      \strng{bibnamehash}{e7cc07a6d8f6cc1ac692d2431b5f71fe}
-      \strng{authorbibnamehash}{e7cc07a6d8f6cc1ac692d2431b5f71fe}
-      \strng{authornamehash}{e7cc07a6d8f6cc1ac692d2431b5f71fe}
-      \strng{authorfullhash}{353f56e8d370d6c8e312ec04cd27c6bc}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{arXiv preprint arXiv:2310.19256}
-      \field{title}{Online Data-Driven Safety Certification for Systems Subject to Unknown Disturbances}
-      \field{year}{2023}
-      \keyw{preprint}
     \endentry
     \entry{rober2022backward}{inproceedings}{}
       \name{author}{3}{}{%
