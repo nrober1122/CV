@@ -19,6 +19,34 @@
 
 \refsection{0}
   \datalist[entry]{ydnt/global//global/global}
+    \entry{rober2024constraint}{article}{}
+      \name{author}{2}{}{%
+        {{hash=f3c3be069daad37ffe0932c9492009fb}{%
+           family={\textbf{Rober,\bibnamedelimb Nicholas}},
+           familyi={R\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=8848ce0ee15eec9f66f8d5f9006b8d66}{%
+           family={How},
+           familyi={H\bibinitperiod},
+           given={Jonathan\bibnamedelima P},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{39a9fb1276b49aea569bace59bbd6400}
+      \strng{fullhash}{39a9fb1276b49aea569bace59bbd6400}
+      \strng{bibnamehash}{39a9fb1276b49aea569bace59bbd6400}
+      \strng{authorbibnamehash}{39a9fb1276b49aea569bace59bbd6400}
+      \strng{authornamehash}{39a9fb1276b49aea569bace59bbd6400}
+      \strng{authorfullhash}{39a9fb1276b49aea569bace59bbd6400}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Control Systems Letters}
+      \field{title}{Constraint-Aware Refinement for Safety Verification of Neural Feedback Loops}
+      \field{year}{2024}
+    \endentry
     \entry{rober2023thesis}{thesis}{}
       \name{author}{1}{}{%
         {{hash=f3c3be069daad37ffe0932c9492009fb}{%
@@ -38,7 +66,7 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{BReach-LP: a Framework for Backward Reachability Analysis of Neural Feedback Loops}
+      \field{title}{{BReach-LP}: a Framework for Backward Reachability Analysis of Neural Feedback Loops}
       \field{type}{mathesis}
       \field{year}{2023}
     \endentry
@@ -269,7 +297,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Ocean Engineering}
-      \field{title}{3D path following and L1 adaptive control for underwater vehicles}
+      \field{title}{{3D} path following and {L1} adaptive control for underwater vehicles}
       \field{volume}{253}
       \field{year}{2022}
       \field{pages}{110971}
