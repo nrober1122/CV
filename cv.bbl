@@ -19,11 +19,71 @@
 
 \refsection{0}
   \datalist[entry]{ydnt/global//global/global}
+    \entry{mahesh2025safe}{article}{}
+      \name{author}{9}{}{%
+        {{hash=32e6eb900acaae7141fde6f3e3083902}{%
+           family={Mahesh},
+           familyi={M\bibinitperiod},
+           given={Karan},
+           giveni={K\bibinitperiod}}}%
+        {{hash=5dc83423f66cee46ec1ec037c39cfce3}{%
+           family={Paine},
+           familyi={P\bibinitperiod},
+           given={Tyler\bibnamedelima M},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=0bc0734e565acbc9c944925d285ecac5}{%
+           family={Greene},
+           familyi={G\bibinitperiod},
+           given={Max\bibnamedelima L},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=9770ca6135b21e25ccfdfc99d7e60eac}{%
+           family={\textbf{N.\bibnamedelimi Rober}},
+           familyi={N\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=147f0aff4266ea96474cd5422a0cd78c}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod}}}%
+        {{hash=02f57a7dd6605e10627d251953d1b6dd}{%
+           family={Monteiro},
+           familyi={M\bibinitperiod},
+           given={Sildomar\bibnamedelima T},
+           giveni={S\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=b09b39a2960146c2b45bd842f8687d61}{%
+           family={Annaswamy},
+           familyi={A\bibinitperiod},
+           given={Anuradha},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e0cad494991777d9ec11527b45562f82}{%
+           family={Benjamin},
+           familyi={B\bibinitperiod},
+           given={Michael\bibnamedelima R},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=8848ce0ee15eec9f66f8d5f9006b8d66}{%
+           family={How},
+           familyi={H\bibinitperiod},
+           given={Jonathan\bibnamedelima P},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{556343f26c6d353188c60ef629c8bfa5}
+      \strng{fullhash}{556343f26c6d353188c60ef629c8bfa5}
+      \strng{bibnamehash}{556343f26c6d353188c60ef629c8bfa5}
+      \strng{authorbibnamehash}{556343f26c6d353188c60ef629c8bfa5}
+      \strng{authornamehash}{556343f26c6d353188c60ef629c8bfa5}
+      \strng{authorfullhash}{556343f26c6d353188c60ef629c8bfa5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Transactions on Control Systems Technology (TCST) (To Appear)}
+      \field{title}{Safe Autonomy for Uncrewed Surface Vehicles Using Adaptive Control and Reachability Analysis}
+      \field{year}{2025}
+    \endentry
     \entry{rober2024constraint}{article}{}
       \name{author}{2}{}{%
-        {{hash=f3c3be069daad37ffe0932c9492009fb}{%
-           family={\textbf{Rober,\bibnamedelimb Nicholas}},
-           familyi={R\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=9770ca6135b21e25ccfdfc99d7e60eac}{%
+           family={\textbf{N.\bibnamedelimi Rober}},
+           familyi={N\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
         {{hash=8848ce0ee15eec9f66f8d5f9006b8d66}{%
            family={How},
            familyi={H\bibinitperiod},
@@ -33,12 +93,12 @@
       \list{publisher}{1}{%
         {IEEE}%
       }
-      \strng{namehash}{39a9fb1276b49aea569bace59bbd6400}
-      \strng{fullhash}{39a9fb1276b49aea569bace59bbd6400}
-      \strng{bibnamehash}{39a9fb1276b49aea569bace59bbd6400}
-      \strng{authorbibnamehash}{39a9fb1276b49aea569bace59bbd6400}
-      \strng{authornamehash}{39a9fb1276b49aea569bace59bbd6400}
-      \strng{authorfullhash}{39a9fb1276b49aea569bace59bbd6400}
+      \strng{namehash}{556e8de559dfdd37c35021c5c4aee6c4}
+      \strng{fullhash}{556e8de559dfdd37c35021c5c4aee6c4}
+      \strng{bibnamehash}{556e8de559dfdd37c35021c5c4aee6c4}
+      \strng{authorbibnamehash}{556e8de559dfdd37c35021c5c4aee6c4}
+      \strng{authornamehash}{556e8de559dfdd37c35021c5c4aee6c4}
+      \strng{authorfullhash}{556e8de559dfdd37c35021c5c4aee6c4}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -49,9 +109,9 @@
     \endentry
     \entry{rober2024online}{inproceedings}{}
       \name{author}{8}{}{%
-        {{hash=f3c3be069daad37ffe0932c9492009fb}{%
-           family={\textbf{Rober,\bibnamedelimb Nicholas}},
-           familyi={R\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=9770ca6135b21e25ccfdfc99d7e60eac}{%
+           family={\textbf{N.\bibnamedelimi Rober}},
+           familyi={N\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
         {{hash=32e6eb900acaae7141fde6f3e3083902}{%
            family={Mahesh},
            familyi={M\bibinitperiod},
@@ -91,12 +151,12 @@
       \list{organization}{1}{%
         {IEEE}%
       }
-      \strng{namehash}{e7cc07a6d8f6cc1ac692d2431b5f71fe}
-      \strng{fullhash}{353f56e8d370d6c8e312ec04cd27c6bc}
-      \strng{bibnamehash}{e7cc07a6d8f6cc1ac692d2431b5f71fe}
-      \strng{authorbibnamehash}{e7cc07a6d8f6cc1ac692d2431b5f71fe}
-      \strng{authornamehash}{e7cc07a6d8f6cc1ac692d2431b5f71fe}
-      \strng{authorfullhash}{353f56e8d370d6c8e312ec04cd27c6bc}
+      \strng{namehash}{c61d5114c341f68fe6e3399952a1afe4}
+      \strng{fullhash}{c61d5114c341f68fe6e3399952a1afe4}
+      \strng{bibnamehash}{c61d5114c341f68fe6e3399952a1afe4}
+      \strng{authorbibnamehash}{c61d5114c341f68fe6e3399952a1afe4}
+      \strng{authornamehash}{c61d5114c341f68fe6e3399952a1afe4}
+      \strng{authorfullhash}{c61d5114c341f68fe6e3399952a1afe4}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -109,19 +169,19 @@
     \endentry
     \entry{rober2023thesis}{thesis}{}
       \name{author}{1}{}{%
-        {{hash=f3c3be069daad37ffe0932c9492009fb}{%
-           family={\textbf{Rober,\bibnamedelimb Nicholas}},
-           familyi={R\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=9770ca6135b21e25ccfdfc99d7e60eac}{%
+           family={\textbf{N.\bibnamedelimi Rober}},
+           familyi={N\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
       }
       \list{institution}{1}{%
         {Massachusetts Institute of Technology, Department of Mechanical Engineering}%
       }
-      \strng{namehash}{f3c3be069daad37ffe0932c9492009fb}
-      \strng{fullhash}{f3c3be069daad37ffe0932c9492009fb}
-      \strng{bibnamehash}{f3c3be069daad37ffe0932c9492009fb}
-      \strng{authorbibnamehash}{f3c3be069daad37ffe0932c9492009fb}
-      \strng{authornamehash}{f3c3be069daad37ffe0932c9492009fb}
-      \strng{authorfullhash}{f3c3be069daad37ffe0932c9492009fb}
+      \strng{namehash}{9770ca6135b21e25ccfdfc99d7e60eac}
+      \strng{fullhash}{9770ca6135b21e25ccfdfc99d7e60eac}
+      \strng{bibnamehash}{9770ca6135b21e25ccfdfc99d7e60eac}
+      \strng{authorbibnamehash}{9770ca6135b21e25ccfdfc99d7e60eac}
+      \strng{authornamehash}{9770ca6135b21e25ccfdfc99d7e60eac}
+      \strng{authorfullhash}{9770ca6135b21e25ccfdfc99d7e60eac}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -132,9 +192,9 @@
     \endentry
     \entry{rober2023hybrid}{inproceedings}{}
       \name{author}{4}{}{%
-        {{hash=f3c3be069daad37ffe0932c9492009fb}{%
-           family={\textbf{Rober,\bibnamedelimb Nicholas}},
-           familyi={R\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=9770ca6135b21e25ccfdfc99d7e60eac}{%
+           family={\textbf{N.\bibnamedelimi Rober}},
+           familyi={N\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
         {{hash=02e603f0f0d76987cf82f7f4e94462fc}{%
            family={Everett},
            familyi={E\bibinitperiod},
@@ -154,12 +214,12 @@
       \list{organization}{1}{%
         {IEEE}%
       }
-      \strng{namehash}{17a1aee52f99cd1bff820f85c16c487e}
-      \strng{fullhash}{88efa230fe141ee255855b51614fe24d}
-      \strng{bibnamehash}{88efa230fe141ee255855b51614fe24d}
-      \strng{authorbibnamehash}{88efa230fe141ee255855b51614fe24d}
-      \strng{authornamehash}{17a1aee52f99cd1bff820f85c16c487e}
-      \strng{authorfullhash}{88efa230fe141ee255855b51614fe24d}
+      \strng{namehash}{016d373c56906c9d95a1086e26b5d5c5}
+      \strng{fullhash}{016d373c56906c9d95a1086e26b5d5c5}
+      \strng{bibnamehash}{016d373c56906c9d95a1086e26b5d5c5}
+      \strng{authorbibnamehash}{016d373c56906c9d95a1086e26b5d5c5}
+      \strng{authornamehash}{016d373c56906c9d95a1086e26b5d5c5}
+      \strng{authorfullhash}{016d373c56906c9d95a1086e26b5d5c5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -173,9 +233,9 @@
     \endentry
     \entry{rober2023backward}{article}{}
       \name{author}{7}{}{%
-        {{hash=f3c3be069daad37ffe0932c9492009fb}{%
-           family={\textbf{Rober,\bibnamedelimb Nicholas}},
-           familyi={R\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=9770ca6135b21e25ccfdfc99d7e60eac}{%
+           family={\textbf{N.\bibnamedelimi Rober}},
+           familyi={N\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
         {{hash=d6b1e7479a07ab55a5021c641dab734c}{%
            family={Katz},
            familyi={K\bibinitperiod},
@@ -210,12 +270,12 @@
       \list{publisher}{1}{%
         {IEEE}%
       }
-      \strng{namehash}{931300a8794fc1a5eab9cf0869c259e1}
-      \strng{fullhash}{9c960765c877de58123221908028821c}
-      \strng{bibnamehash}{931300a8794fc1a5eab9cf0869c259e1}
-      \strng{authorbibnamehash}{931300a8794fc1a5eab9cf0869c259e1}
-      \strng{authornamehash}{931300a8794fc1a5eab9cf0869c259e1}
-      \strng{authorfullhash}{9c960765c877de58123221908028821c}
+      \strng{namehash}{fa693ffd38891546ad747a32e186b85d}
+      \strng{fullhash}{fa693ffd38891546ad747a32e186b85d}
+      \strng{bibnamehash}{fa693ffd38891546ad747a32e186b85d}
+      \strng{authorbibnamehash}{fa693ffd38891546ad747a32e186b85d}
+      \strng{authornamehash}{fa693ffd38891546ad747a32e186b85d}
+      \strng{authorfullhash}{fa693ffd38891546ad747a32e186b85d}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -227,9 +287,9 @@
     \endentry
     \entry{rober2022backward}{inproceedings}{}
       \name{author}{3}{}{%
-        {{hash=f3c3be069daad37ffe0932c9492009fb}{%
-           family={\textbf{Rober,\bibnamedelimb Nicholas}},
-           familyi={R\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=9770ca6135b21e25ccfdfc99d7e60eac}{%
+           family={\textbf{N.\bibnamedelimi Rober}},
+           familyi={N\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
         {{hash=02e603f0f0d76987cf82f7f4e94462fc}{%
            family={Everett},
            familyi={E\bibinitperiod},
@@ -244,12 +304,12 @@
       \list{organization}{1}{%
         {IEEE}%
       }
-      \strng{namehash}{1f738796da8c52e38a4054a7f5f782ee}
-      \strng{fullhash}{1f738796da8c52e38a4054a7f5f782ee}
-      \strng{bibnamehash}{1f738796da8c52e38a4054a7f5f782ee}
-      \strng{authorbibnamehash}{1f738796da8c52e38a4054a7f5f782ee}
-      \strng{authornamehash}{1f738796da8c52e38a4054a7f5f782ee}
-      \strng{authorfullhash}{1f738796da8c52e38a4054a7f5f782ee}
+      \strng{namehash}{4d8362ec81add51ecf6df6bb9dac38f6}
+      \strng{fullhash}{4d8362ec81add51ecf6df6bb9dac38f6}
+      \strng{bibnamehash}{4d8362ec81add51ecf6df6bb9dac38f6}
+      \strng{authorbibnamehash}{4d8362ec81add51ecf6df6bb9dac38f6}
+      \strng{authornamehash}{4d8362ec81add51ecf6df6bb9dac38f6}
+      \strng{authorfullhash}{4d8362ec81add51ecf6df6bb9dac38f6}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -263,9 +323,9 @@
     \endentry
     \entry{rober20223d}{article}{}
       \name{author}{5}{}{%
-        {{hash=f3c3be069daad37ffe0932c9492009fb}{%
-           family={\textbf{Rober,\bibnamedelimb Nicholas}},
-           familyi={R\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=9770ca6135b21e25ccfdfc99d7e60eac}{%
+           family={\textbf{N.\bibnamedelimi Rober}},
+           familyi={N\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
         {{hash=9874968953e197e56cd755db8a2d949f}{%
            family={Hammond},
            familyi={H\bibinitperiod},
@@ -290,12 +350,12 @@
       \list{publisher}{1}{%
         {Elsevier}%
       }
-      \strng{namehash}{5bc1d44cd989176b1899ddd09e4a4f82}
-      \strng{fullhash}{be36ed1a355d5a5db2d52cdb8be69aec}
-      \strng{bibnamehash}{be36ed1a355d5a5db2d52cdb8be69aec}
-      \strng{authorbibnamehash}{be36ed1a355d5a5db2d52cdb8be69aec}
-      \strng{authornamehash}{5bc1d44cd989176b1899ddd09e4a4f82}
-      \strng{authorfullhash}{be36ed1a355d5a5db2d52cdb8be69aec}
+      \strng{namehash}{25228574a6f0adb2fbe8e8105efeec93}
+      \strng{fullhash}{25228574a6f0adb2fbe8e8105efeec93}
+      \strng{bibnamehash}{25228574a6f0adb2fbe8e8105efeec93}
+      \strng{authorbibnamehash}{25228574a6f0adb2fbe8e8105efeec93}
+      \strng{authornamehash}{25228574a6f0adb2fbe8e8105efeec93}
+      \strng{authorfullhash}{25228574a6f0adb2fbe8e8105efeec93}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -308,11 +368,39 @@
       \range{pages}{1}
       \keyw{journal}
     \endentry
+    \entry{rober2021geometric}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=9770ca6135b21e25ccfdfc99d7e60eac}{%
+           family={\textbf{N.\bibnamedelimi Rober}},
+           familyi={N\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=ed4364e0da30c3fe6eaab8fff93741fa}{%
+           family={Cichella},
+           familyi={C\bibinitperiod},
+           given={Venanzio},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{191e1fd7e1063683d2b6f58c00f31c17}
+      \strng{fullhash}{191e1fd7e1063683d2b6f58c00f31c17}
+      \strng{bibnamehash}{191e1fd7e1063683d2b6f58c00f31c17}
+      \strng{authorbibnamehash}{191e1fd7e1063683d2b6f58c00f31c17}
+      \strng{authornamehash}{191e1fd7e1063683d2b6f58c00f31c17}
+      \strng{authorfullhash}{191e1fd7e1063683d2b6f58c00f31c17}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{AIAA Scitech 2021 Forum}
+      \field{title}{Geometric Path Following of Underwater Vehicles}
+      \field{year}{2021}
+      \field{pages}{1678}
+      \range{pages}{1}
+      \keyw{conference}
+    \endentry
     \entry{rober2021three}{article}{}
       \name{author}{5}{}{%
-        {{hash=f3c3be069daad37ffe0932c9492009fb}{%
-           family={\textbf{Rober,\bibnamedelimb Nicholas}},
-           familyi={R\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=9770ca6135b21e25ccfdfc99d7e60eac}{%
+           family={\textbf{N.\bibnamedelimi Rober}},
+           familyi={N\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
         {{hash=ed4364e0da30c3fe6eaab8fff93741fa}{%
            family={Cichella},
            familyi={C\bibinitperiod},
@@ -338,12 +426,12 @@
         {American Institute of Aeronautics}%
         {Astronautics}%
       }
-      \strng{namehash}{6ef0378dce88d77d1fd703b93a30ed15}
-      \strng{fullhash}{f6788214dd047eafc4dacf9e0ccbcd44}
-      \strng{bibnamehash}{f6788214dd047eafc4dacf9e0ccbcd44}
-      \strng{authorbibnamehash}{f6788214dd047eafc4dacf9e0ccbcd44}
-      \strng{authornamehash}{6ef0378dce88d77d1fd703b93a30ed15}
-      \strng{authorfullhash}{f6788214dd047eafc4dacf9e0ccbcd44}
+      \strng{namehash}{7e8be7c86986ac3ae7d3fb0c6d092182}
+      \strng{fullhash}{7e8be7c86986ac3ae7d3fb0c6d092182}
+      \strng{bibnamehash}{7e8be7c86986ac3ae7d3fb0c6d092182}
+      \strng{authorbibnamehash}{7e8be7c86986ac3ae7d3fb0c6d092182}
+      \strng{authornamehash}{7e8be7c86986ac3ae7d3fb0c6d092182}
+      \strng{authorfullhash}{7e8be7c86986ac3ae7d3fb0c6d092182}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -356,34 +444,6 @@
       \field{pages}{1345\bibrangedash 1355}
       \range{pages}{11}
       \keyw{journal}
-    \endentry
-    \entry{rober2021geometric}{inproceedings}{}
-      \name{author}{2}{}{%
-        {{hash=200e4a0b2c6ba1988a854c5f43b550e9}{%
-           family={\textbf{Rober,\bibnamedelimb Nicholas\bibnamedelimb A}},
-           familyi={R\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=ed4364e0da30c3fe6eaab8fff93741fa}{%
-           family={Cichella},
-           familyi={C\bibinitperiod},
-           given={Venanzio},
-           giveni={V\bibinitperiod}}}%
-      }
-      \strng{namehash}{b617bd7a411df488344d798d7fe838d4}
-      \strng{fullhash}{b617bd7a411df488344d798d7fe838d4}
-      \strng{bibnamehash}{b617bd7a411df488344d798d7fe838d4}
-      \strng{authorbibnamehash}{b617bd7a411df488344d798d7fe838d4}
-      \strng{authornamehash}{b617bd7a411df488344d798d7fe838d4}
-      \strng{authorfullhash}{b617bd7a411df488344d798d7fe838d4}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{AIAA Scitech 2021 Forum}
-      \field{title}{Geometric Path Following of Underwater Vehicles}
-      \field{year}{2021}
-      \field{pages}{1678}
-      \range{pages}{1}
-      \keyw{conference}
     \endentry
   \enddatalist
 \endrefsection
